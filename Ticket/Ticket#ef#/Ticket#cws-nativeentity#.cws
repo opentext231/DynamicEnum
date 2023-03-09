@@ -604,7 +604,7 @@
 									<CreationDate>2022-04-20T06:07:46.65</CreationDate>
 									<Notes/>
 									<CacheDuration>1</CacheDuration>
-									<CacheDurationUnit>minutes</CacheDurationUnit>
+									<CacheDurationUnit>seconds</CacheDurationUnit>
 									<ContextProperties/>
 									<DisplayNameProvider>
 										<BPMEnumProvider
