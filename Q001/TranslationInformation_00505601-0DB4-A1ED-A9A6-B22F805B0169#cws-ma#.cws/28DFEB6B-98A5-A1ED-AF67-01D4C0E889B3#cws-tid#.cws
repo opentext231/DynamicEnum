@@ -1,0 +1,24 @@
+
+<TextIdentifier
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TextIdentifier"
+	typeVersion="55890f21-u239-76j6-988a-92j7opq6ws09"
+	RuntimeDocumentID="28DFEB6B-98A5-A1ED-AF67-01D4C0E8C9B3">
+	<DocumentID>28DFEB6B-98A5-A1ED-AF67-01D4C0E889B3</DocumentID>
+	<Name>28DFEB6B-98A5-A1ED-AF67-01D4C0E889B3</Name>
+	<Description>DEInt1</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-03-08T10:59:20.897</CreationDate>
+	<Notes/>
+	<DefaultText>DEInt1</DefaultText>
+	<TranslationInformation>
+		<uri
+			id="00505601-0DB4-A1ED-A9A6-B22F805A8169"
+		/>
+	</TranslationInformation>
+	<Translations>
+		<uri
+			id="28DFEB6B-98A5-A1ED-AF67-01D4C0E909B3"
+		/>
+	</Translations>
+</TextIdentifier>

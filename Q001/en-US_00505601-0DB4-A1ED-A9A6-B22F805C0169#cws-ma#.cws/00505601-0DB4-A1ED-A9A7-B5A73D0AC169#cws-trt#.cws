@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="00505601-0DB4-A1ED-A9A7-B5A73D0B0169">
+	<DocumentID>00505601-0DB4-A1ED-A9A7-B5A73D0AC169</DocumentID>
+	<Name>00505601-0DB4-A1ED-A9A7-B5A73D0AC169</Name>
+	<Description>DE13</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-02-07T04:26:35.175</CreationDate>
+	<Notes/>
+	<Text>DE13</Text>
+	<Language>
+		<uri
+			id="00505601-0DB4-A1ED-A9A6-B22F805B8169"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="00505601-0DB4-A1ED-A9A7-B5A73D0A4169"
+		/>
+	</TextIdentifier>
+</TranslatedText>
