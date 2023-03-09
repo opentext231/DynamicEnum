@@ -1,0 +1,23 @@
+
+<TranslatedText
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.translation.TranslatedText"
+	RuntimeDocumentID="28DFEB6B-98A5-A1ED-AF8C-F95A74AF89B3">
+	<DocumentID>28DFEB6B-98A5-A1ED-AF8C-F95A74AF49B3</DocumentID>
+	<Name>28DFEB6B-98A5-A1ED-AF8C-F95A74AF49B3</Name>
+	<Description>BPM002</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2023-03-09T04:41:21.718</CreationDate>
+	<Notes/>
+	<Text>BPM002</Text>
+	<Language>
+		<uri
+			id="00505601-0DB4-A1ED-A9A6-B22F805B8169"
+		/>
+	</Language>
+	<TextIdentifier>
+		<uri
+			id="28DFEB6B-98A5-A1ED-AF8C-F95A74AEC9B3"
+		/>
+	</TextIdentifier>
+</TranslatedText>
