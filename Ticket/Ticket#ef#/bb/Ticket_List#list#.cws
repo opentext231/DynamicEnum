@@ -20,6 +20,7 @@
 	<HideIfNoResults>false</HideIfNoResults>
 	<IsCardViewEnabled>false</IsCardViewEnabled>
 	<IsChartViewEnabled>false</IsChartViewEnabled>
+	<IsHighlightUnread>false</IsHighlightUnread>
 	<IsReadOnlyView>false</IsReadOnlyView>
 	<ItemOpenMode>0</ItemOpenMode>
 	<LayoutId>F8E4E393-F8B3-A1EC-B01B-E8CC6DA6C9F3</LayoutId>
@@ -114,7 +115,7 @@
 	<FilterCriteria>
 		<EntityExpression
 			type="com.cordys.entity.services.entityexpression.EntityExpression"
-			typeVersion="B533CA05-04B9-4F23-AF1D-A322ED02052E"
+			typeVersion="0928EA4A-EDAC-431C-991B-48F29BCEF3C2"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-B01B-E8CC6DA349F3">
 			<DocumentID>F8E4E393-F8B3-A1EC-B01B-E8CC6DA309F3</DocumentID>
 			<Name>FilterCriteria</Name>
@@ -166,7 +167,7 @@
 	<WorklistColumns>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-B01B-E8CC6DA0C9F3">
 			<DocumentID>F8E4E393-F8B3-A1EC-B01B-E8CC6DA089F3</DocumentID>
 			<Name>Untitled WorklistColumn</Name>
@@ -240,7 +241,7 @@
 		</WorklistColumn>
 		<WorklistColumn
 			type="com.cordys.entity.buildingblocks.worklist.WorklistColumn"
-			typeVersion="EB0867F3-E038-4437-904C-28C716977E55"
+			typeVersion="11744AA9-675D-45A0-B757-52B91B7D6B58"
 			RuntimeDocumentID="F8E4E393-F8B3-A1EC-B01C-09A9C2A909F3">
 			<DocumentID>F8E4E393-F8B3-A1EC-B01C-09A9C2A8C9F3</DocumentID>
 			<Name>Untitled WorklistColumn (1)</Name>
